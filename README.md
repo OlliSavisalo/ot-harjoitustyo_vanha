@@ -10,3 +10,6 @@
 
 ### Viikko 2
 
+
+
+Epäsynkrooni muutos
