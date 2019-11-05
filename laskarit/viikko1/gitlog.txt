@@ -228,3 +228,4 @@ Date:   Tue Nov 5 11:23:54 2019 +0200
 
 ollisavi@dhcp-asv-69:~/Kurssit/OT2019/ot_viikko1$ 
 
+Epäsynkrooni TESTI
