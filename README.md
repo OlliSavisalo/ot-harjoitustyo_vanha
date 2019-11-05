@@ -9,7 +9,3 @@
 [komentorivi.txt](https://github.com/OlliSavisalo/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 ### Viikko 2
-
-
-
-Epäsynkrooni muutos
