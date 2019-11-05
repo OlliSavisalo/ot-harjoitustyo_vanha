@@ -227,5 +227,3 @@ Date:   Tue Nov 5 11:23:54 2019 +0200
  1 file changed, 0 insertions(+), 0 deletions(-)
 
 ollisavi@dhcp-asv-69:~/Kurssit/OT2019/ot_viikko1$ 
-
-Epäsynkrooni TESTI
