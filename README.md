@@ -6,7 +6,7 @@
 
 [Tuntikirjanpito](https://github.com/OlliSavisalo/ot-harjoitustyo/blob/master/Sudoku_sovellus/dokumentaatio/tuntikirjanpito.md)
 
-[Vaatimusmäärittely] (https://github.com/OlliSavisalo/ot-harjoitustyo/blob/master/Sudoku_sovellus/dokumentaatio/vaatimusmaarittely.md)
+[Vaatimusmäärittely](https://github.com/OlliSavisalo/ot-harjoitustyo/blob/master/Sudoku_sovellus/dokumentaatio/vaatimusmaarittely.md)
 
 
 ## Laskarit
