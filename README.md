@@ -1,6 +1,15 @@
 # Ohjelmistotekniikka, harjoitustyö
 
-## Tehtävät
+## Sudoku
+
+[Dokumentaatio](https://github.com/OlliSavisalo/ot-harjoitustyo/tree/master/Sudoku_sovellus/dokumentaatio)
+
+[Tuntikirjanpito](https://github.com/OlliSavisalo/ot-harjoitustyo/blob/master/Sudoku_sovellus/dokumentaatio/tuntikirjanpito.md)
+
+[Vaatimusmäärittely] (https://github.com/OlliSavisalo/ot-harjoitustyo/blob/master/Sudoku_sovellus/dokumentaatio/vaatimusmaarittely.md)
+
+
+## Laskarit
 
 ### Viikko 1
 
@@ -17,3 +26,4 @@
 [Unicafe](https://github.com/OlliSavisalo/ot-harjoitustyo/tree/master/laskarit/viikko2/Unicafe)
 
 ### Viikko 3
+
